@@ -10,7 +10,7 @@ Sounds of the Streets
 **Project: Musical Maps**
 * Plays a song based on current (or entered) location
 
-**Located on port 7358**
+**Located at ml7.stuycs.org:7358**
 
 <h3>How to use this project:</h3>
 **Install these plugins**
